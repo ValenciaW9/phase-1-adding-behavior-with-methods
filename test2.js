@@ -1,3 +1,6 @@
+///Here's an example:
+   
+
 const { expect } = require('chai');
 const { Cat, Dog, Bird } = require('./classes.js');
 
